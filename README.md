@@ -48,7 +48,7 @@ You need to have the following software installed on your computer:
 2. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/suptechie/ecommerce-api-nodejs.git
+   git clone https://github.com/rudyapollo/ecommerce-api-nodejs.git
    ```
 
 3. Navigate to the project directory:
